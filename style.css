@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+#body {
+    background-color: #7d80da;
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
+
+#header-title{
+    text-align: center;
+}
+#header-title h1 {
+    font-weight: 700;
+}
+
+.container-list-users {
+    text-align: center;
+}
+
+.container-register {
+    text-align: center;
+}
+
+.form-container{
+    margin: auto;
+
+}
+
+#list-users {
+    padding: 10px;
+}
+ .card-body {
+    background-color: #b0a3d4;
+ }
